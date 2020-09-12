@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Sep 2020 09:13:00 at http://webstrot.com/html/thebilltro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://webstrot.com/html/thebilltro/ -O1 "C:\My Web Sites\http___webstrot.com_html_thebilltro_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:13:03	Warning: 	Note: due to webstrot.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/css/owl.video.play.png (from webstrot.com/html/thebilltro/css/owl.carousel.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/fonts/Flaticon.svg (from webstrot.com/html/thebilltro/css/flaticon.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/css/Flaticon.svg (from webstrot.com/html/thebilltro/css/flaticon.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/blank.gif (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/camera_skins.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay1.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:30	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay2.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay3.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay4.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay5.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay6.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay7.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay8.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay9.png (from webstrot.com/html/thebilltro/css/camera.css)
+09:18:31	Error: 	"Not Found" (404) at link webstrot.com/html/thebilltro/images/patterns/overlay10.png (from webstrot.com/html/thebilltro/css/camera.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 44 seconds : 164 links scanned, 148 files written (9217221 bytes overall) [8613208 bytes received at 25038 bytes/sec], 3090066 bytes transferred using HTTP compression in 27 files, ratio 21%
+(15 errors, 1 warnings, 0 messages)
